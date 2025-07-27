@@ -1,16 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
 
-// Simple test component first
-function SimpleApp() {
-  return (
-    <div className="App">
-      <h1>Hello World - Zvestors is Working!</h1>
-      <p>If you can see this, React is working properly.</p>
-    </div>
-  );
-}
-
 // Module data structure
 interface Module {
   id: number;
@@ -36,7 +26,6 @@ function App() {
   const [currentPage, setCurrentPage] = useState<'home' | 'register' | 'modules' | 'completion'>('home');
   const [currentModuleIndex, setCurrentModuleIndex] = useState(0);
   const [showQuiz, setShowQuiz] = useState(false);
-  const [quizCompleted, setQuizCompleted] = useState(false);
   const [completedModules, setCompletedModules] = useState<number[]>([]);
 
   // Modules data with content and quizzes
@@ -1311,7 +1300,6 @@ These ratios help you analyze whether a stock is:
     if (currentModuleIndex < modules.length - 1) {
       setCurrentModuleIndex(currentModuleIndex + 1);
       setShowQuiz(false);
-      setQuizCompleted(false);
       // Scroll to top when moving to next module
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
@@ -1319,7 +1307,6 @@ These ratios help you analyze whether a stock is:
 
   const startQuiz = () => {
     setShowQuiz(true);
-    setQuizCompleted(false);
     // Scroll to top when starting quiz
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
@@ -1960,4 +1947,4 @@ const RegisterPage: React.FC<{ onBackToHome: () => void }> = ({ onBackToHome }) 
   );
 };
 
-export default SimpleApp;
+export default App;
