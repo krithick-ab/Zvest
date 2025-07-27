@@ -1,6 +1,16 @@
 import React, { useState } from 'react';
 import './App.css';
 
+// Simple test component first
+function SimpleApp() {
+  return (
+    <div className="App">
+      <h1>Hello World - Zvestors is Working!</h1>
+      <p>If you can see this, React is working properly.</p>
+    </div>
+  );
+}
+
 // Module data structure
 interface Module {
   id: number;
@@ -1950,4 +1960,4 @@ const RegisterPage: React.FC<{ onBackToHome: () => void }> = ({ onBackToHome }) 
   );
 };
 
-export default App;
+export default SimpleApp;
