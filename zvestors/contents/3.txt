@@ -1,0 +1,135 @@
+# How to get started?
+
+This is where it all begins. You’ve learned the basics, now let’s take action! 
+
+Here’s a step-by-step guide to start your **value investing journey**, with real-world tools, apps, and relatable examples.
+
+---
+
+## 1. **Open a DEMAT Account**
+
+### Definition:
+
+A **DEMAT account (Dematerialized Account)** is like a digital wallet for holding shares and securities in electronic format. You **can’t invest in the stock market without it**.
+
+### What you need:
+
+- PAN Card
+- Aadhaar Card
+- Bank account
+- Mobile number linked with Aadhaar (for OTP verification)
+
+### Popular Apps for Gen Z:
+
+- **Zerodha (Kite)** – Clean interface
+- **Groww** – Super beginner-friendly
+- **Upstox**, **Angel One**, **Dhan** – Also great for students
+
+> Pro Tip: Start with basic account (no margin or F&O). You can always upgrade later.
+> 
+
+---
+
+## 2.  **Use Bucket-Style Investing**
+
+### Definition:
+
+Divide your investments into **"buckets"** based on **goals, time horizon, and risk**.
+
+This avoids emotional investing and helps with long-term planning.
+
+### The Buckets:
+
+| Bucket | Use Case | Risk Level | Example |
+| --- | --- | --- | --- |
+| 🚨 Emergency | For medical bills, sudden expenses | Low | Bank FD, Liquid Fund |
+| 🎯 Short-term | For 1–2 year goals | Medium | Hybrid Mutual Fund |
+| 🚀 Long-term | Wealth creation (5+ years) | High | Stocks, ETFs |
+
+### Example:
+
+You're a college student and you invest ₹500/month.
+
+- ₹100 to Liquid Fund (emergency)
+- ₹150 to Mutual Fund (short-term)
+- ₹250 to Stocks (long-term wealth)
+
+> This method brings clarity & balance.
+> 
+
+---
+
+## 3.  **Build Your First Value Portfolio**
+
+### Definition:
+
+A **value portfolio** is a set of stocks you carefully pick based on **fundamentals**, **quality**, and **fair price** — not just hype.
+
+### What to include:
+
+- 3–5 quality businesses (start small)
+- Apply qualitative + quantitative filters you’ve learned
+- Focus on companies with strong promoters & clean management
+
+### Example:
+
+Your first value portfolio might include:
+
+- **ITC** – Strong cash flows, high dividend
+- **IRCTC** – Monopoly, government-backed
+- **Tata Consumer** – Trusted brand, long-term growth
+- **SBI Life** – Financial sector exposure
+
+> Don’t copy others. Invest in what you understand (Warren Buffett rule).
+> 
+
+---
+
+## 4.  **Keep Track with Our Portfolio Tracker**
+
+### Definition:
+
+A **portfolio tracker** helps you **monitor your gains, losses, and allocation**. It keeps your investing journey **organized and transparent**.
+
+### Tools You Can Use:
+
+- **Tickertape**
+- **INDmoney**
+- **Zerodha Console**
+- **Google Sheets (DIY)**
+
+### Example:
+
+Every month:
+
+- Update your investment amount
+- Track growth
+- Note down why you bought each stock (this helps avoid panic selling later)
+
+> Tracking = Thinking. Investors who track become investors who grow.
+> 
+
+---
+
+## BONUS TOPICS TO ADD FOR MORE VALUE
+
+### 5.  Learn While You Invest (Micro-learning inside the app)
+
+- Daily 2-min reads on finance terms
+- Weekly emailers/newsletters
+- Video explainers on stocks, mutual funds
+
+> Keep learning. The best investors are lifelong learners.
+> 
+
+---
+
+### 6.  Mindset and Discipline
+
+- Don’t check prices daily
+- Focus on business performance, not stock performance
+- Review every 3–6 months
+- Have an **"investor journal"** – note why you bought something
+
+> Investing is not about IQ, it’s about EQ (emotional intelligence).
+>

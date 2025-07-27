@@ -1,0 +1,651 @@
+# Quantitative Analysis
+
+## Quantitative Analysis is a method used in finance/stock market relies on math and statistics to understand and predict the value of asset class like stocks, mutual funds and etc.
+
+## These analysis helps to decide:
+
+1. When to Buy?
+2. When to Sell?
+3. How risky a Trade is?
+4. How much profit they might make?
+
+## **Example: Shopping at a Sale**
+
+Imagine you're shopping online for shoes. You want to get the **best deal**. So, over the past 6 months, you’ve tracked:
+
+- Price changes every week
+- When the shoe goes out of stock
+- When big discounts usually happen (festive sales, weekends)
+
+You notice a **pattern**:
+
+- The price drops 30% during the first week of every month.
+- It sells out quickly after that.
+
+So, using this **data**, you create a simple rule for yourself:
+
+> "I will buy these shoes if they are 30% off and it's the first week of the month."
+> 
+
+---
+
+The upcoming parameters are used to value a stock through quantitative analysis
+
+# 1. P/E ratio: Price to Earnings Ratio
+
+    
+
+ SIMPLE DEFINITION:
+
+### It is a measure of how much an Investor is willing to pay for a share compared to the profitability of underlying business.
+
+  DEFENITION BASED ON FORMULA:
+
+### It is the ratio of current market price of one share to                                                  earnings per share
+
+                    CALCULATED BY:
+
+                                       P/E ratio = Price of one share(CMP) / Earnings per share(EPS)
+
+         
+
+                                          EPS = EPS = Total Net Profit / Total Number of Shares
+
+## Example :
+
+**Imagine this:**
+
+You and your friend are thinking of investing in a small pizza shop.
+
+There are **2 shops** for sale:
+
+### Shop A:
+
+- Price to buy the shop = ₹10 lakhs
+- Yearly profit = ₹2 lakhs
+    
+    → **P/E Ratio = 10,00,000 / 2,00,000 = 5**
+    
+
+### Shop B:
+
+- Price to buy the shop = ₹20 lakhs
+- Yearly profit = ₹2 lakhs
+    
+    → **P/E Ratio = 20,00,000 / 2,00,000 = 10**
+    
+
+### So, What Does This Mean?
+
+- Shop A's P/E is **5** → You are paying ₹5 to earn ₹1
+- Shop B's P/E is **10** → You are paying ₹10 to earn ₹1
+
+## Summary:
+
+> Lower P/E = cheaper deal (but not always better)
+> 
+> 
+> **Higher P/E = market expects more growth**
+> 
+
+So P/E helps you know **how much you're paying for ₹1 of a company's earnings** — just like valuing a pizza shop!
+
+---
+
+# 2.Earnings per Share(EPS):
+
+SIMPLE DEFENITION:
+
+### EPS tells you how much profit a company makes for every single share.
+
+### If you own 1 share, EPS shows **how much money that share earned**                        during the year.
+
+                   CALCULATED BY:
+
+                                                  EPS = Total Net Profit / Total Number of Shares
+
+ 
+
+## **Example (Donut Shop)**
+
+  Let’s say:
+
+- Donut Co. made ₹10,00,000 profit this year
+- It has 1,00,000 total shares
+
+### So:
+
+         EPS = ₹10,00,000 / 1,00,000 = ₹10
+
+### Meaning:
+
+                     Each share earned ₹10 profit this year.
+
+                     If you had 1 share, you “own” ₹10 of the company’s earnings (not cash in hand, but value).
+
+## Summary:
+
+- High EPS = Company is making more money per share
+- Low EPS = Not much profit per share (could be risky or still growing)
+
+---
+
+# 3. Market capitalization(market cap):
+
+SIMPLE DEFENITION:
+
+### Market Capitalization is a value attains by product of total number of   outstanding shares and current market price of one share of the respective company.
+
+### This value represents the total market value of all of a company's outstanding shares and is a key metric for understanding a company's size and overall market value.
+
+### Formula:
+
+                     Market capitalization = total no. of outstanding shares * current market price of one share
+
+## **Example: Burger Bros Ltd.**
+
+       
+
+ Let’s say a company called **Burger Bros Ltd.** has:
+
+- **Share Price** = ₹200
+- **Total Shares** = 10,00,000 (10 lakh shares)
+
+Then,
+
+          Market Cap = ₹200 × 10,00,000 = ₹20,00,00,000 (₹20 Crores)
+
+### Burger Bros is worth **₹20 Crores in the stock market**.
+
+If someone wants to “buy the whole company,” in theory, they’d need to pay ₹20 crores — that’s the company’s **market value**.
+
+## Summary:
+
+- **Large Cap** = Big, stable companies (like Reliance, TCS)
+- **Mid Cap** = Growing companies (like Indigo)
+- **Small Cap** = Small but risky companies (like micro startups)
+
+---
+
+# 4. Book value:
+
+SIMPLE DEFENITION:
+
+### Book Value is the **total value of a company’s assets** minus its  **liabilities (what it owes)**
+
+### It tells you **what the company is worth on paper** — like its "true value" if it was shut down today and everything was sold.
+
+CALCULATED BY:
+
+### Book Value = Total Assets – Total Liabilities
+
+## Example: A Company.inc
+
+                         
+
+If a company.inc has:
+
+- Assets worth ₹100 Crores
+- Debts of ₹20 Crores
+
+### Then the **book value = ₹80 Crores**
+
+If the company has **10 crore shares**, then:
+
+                       Book Value per Share = ₹80 Crores ÷ 10 Crores = ₹8
+
+## Summary:
+
+- If a stock’s **market price is lower than its book value**, it might be **undervalued** (good for long-term investors)
+- High book value means the company has **strong assets and less debt**
+
+---
+
+# 5. Debt to equity Ratio(D/E):
+
+SIMPLE DEFENITION:
+
+### The Debt-to-Equity ratio shows **how much money a company has borrowed (debt)** compared to **how much money the owners/shareholders have invested (equity)**.
+
+CALCULATED BY:
+
+                               D/E Ratio = Total Debt / Shareholder’s Equity
+
+![b2a7707f-21d9-41ef-82f4-92f2ac088f8e.png](attachment:abbf8ce6-d7ca-41db-bc5f-4354f791bc9e:270c3156-fae6-471f-856f-c7327df6ab06.png)
+
+## **Example:**
+
+Imagine your friend Arjun starts a food truck business:
+
+- He takes a **loan of ₹5 lakhs** (debt)
+- He invests **₹2 lakhs from his own savings** (equity)
+
+### D/E Ratio = ₹5,00,000 ÷ ₹2,00,000 = **2.5**
+
+    This means Arjun is using ₹2.5 of **borrowed money** for every ₹1 of **his own money**.
+
+## Summary:
+
+- **Low D/E** = Company is using more of its **own money** to run the business (safer).
+- **High D/E** = Company is using **more loans** (riskier, especially if profits fall).
+
+---
+
+# 6. Price to Book Value:
+
+SIMPLE DEFENITION:
+
+### It shows whether a stock is **cheap (undervalued)** or **expensive (overvalued)** based on its real worth.
+
+### The **P/B ratio** tells you **how much investors are paying for a company compared to its actual book value** (the value of what the company owns minus what it owes).
+
+CALCULATED BY:
+
+                                 P/B RATIO = Share price / Book Value per share(BVPS)
+
+### Example:
+
+### If a company's stock price is ₹100 and its book value per share is ₹50:
+
+### P/B Ratio = 100 ÷ 50 = 2
+
+ This means investors are paying **₹2 for every ₹1 of the company’s real value**.
+
+### Key Takeaways:
+
+- The price-to-book (P/B) ratio measures the market's valuation of a company relative to its book value.
+- The market value of equity is typically higher than the book value of a company's stock.
+- The price-to-book ratio is used by value investors to identify potential investments.
+- P/B ratios under 1.0 are typically considered solid investments by value investors.
+- A good P/B ratio is relative to a business and its industry.
+
+---
+
+# 7.Return on Investing(ROI):
+
+SIMPLE DEFENITION:                                                                    
+
+### ROI shows **how much profit you made from an investment compared to how much you spent.** It’s written as a **percentage** to easily compare different investments.
+
+CALCULATED BY:
+
+### ROI = (Gain – Cost) ÷ Cost × 100
+
+## Example: **Burger Shop Investment**
+
+                                      Let’s say you invest **₹10,000** in a small burger stall.
+
+                                     After a few months, you earn **₹13,000** from it (including your investment + profit).
+
+- **Gain = ₹13,000**
+- **Cost = ₹10,000**
+
+                                     ROI = (13,000 – 10,000) ÷ 10,000 × 100
+                                             = 3,000 ÷ 10,000 × 100
+                                             = 30%
+
+    You made a **30% return** on your investment. For every ₹100 you spent, you earned ₹130 (₹30 profit).
+
+![ChatGPT Image Jun 20, 2025, 11_23_34 AM.png](attachment:938c2df7-9130-4192-9f9c-f690052ff45a:37b098b0-298b-4cc8-b6d8-ee636b69d96e.png)
+
+---
+
+# 8. Promoter Holding:
+
+SIMPLE DEFENITION:
+
+### **Promoter holding** is the **percentage of shares in a company owned by its promoters**.
+
+### Promoters are the **founders, owners, or key people** who started or control the company. This tells us **how much skin the original creators have in the game**.
+
+## **Example: Pizza Boss Ltd.**
+
+- Total shares of the company = 1,00,000
+- Promoter (the founder) owns = 60,000 shares
+
+### Promoter Holding = (60,000 ÷ 1,00,000) × 100
+                                  = 60%
+
+The **promoter owns 60%** of the company. That’s a strong holding — it shows they have **major control** and **confidence** in their own business.
+
+SUMMARY:
+
+                     **High promoter holding** (50% or more) = Promoters are confident and involved.
+
+                     **Low promoter holding** = Could mean they’re slowly exiting or less interested.
+
+---
+
+# 9. Dividend Yield:
+
+        SIMPLE DEFENITION:
+
+### Dividend Yield tells you **how much money (dividend) a company pays you every year compared to its stock price**— shown as a percentage.
+
+### It’s like the **interest you earn for holding a stock.**
+
+FORMULA:
+
+                    Dividend Yield = (Annual Dividend ÷ Share Price) × 100
+
+## **Example: Orange Ltd.**
+
+- **Share Price** = ₹200
+- **Annual Dividend** = ₹10 per share
+
+        Dividend Yield =  (10 ÷ 200) × 100 = 5%
+
+## Summary:
+
+    If you buy 1 share of Orange Ltd. at ₹200, you’ll get ₹10 every year as dividend.
+
+    That’s a **5% return** just from holding the stock — even before the price moves up!
+
+### It’s like buying a ₹200 headphone and the company gives you ₹10 cashback **every year** just for owning it.
+
+---
+
+# 10. Face Value:
+
+                            SIMPLE DEFENITION:
+
+### **Face Value** (also called **Par Value**) is the **original price of a share** set by the                       c8                                       company when it is first issued.
+
+                            It has **nothing to do with the market price**.
+
+                            It is just an **accounting number** used for calculating things like dividends,                                                                    share capital, etc.
+
+## Example:
+
+                                                      Let’s say a company called **Tech Vibe Ltd.** issues shares with:
+
+- **Face Value** = ₹10
+- **Market Price** = ₹150
+
+                                    This means:
+
+- The company originally set each share's base value at ₹10
+- But people are now buying/selling it at ₹150 in the stock market
+
+### Why Face Value Matters:
+
+- Dividends are often declared **on face value**
+    - e.g. "100% dividend on ₹10 face value" = ₹10 dividend
+- Helps calculate **share capital** of the company
+    - e.g. 1,00,000 shares × ₹10 = ₹10,00,000 share capital
+    
+    ## Summary:
+    
+                                Think of face value like the **MRP printed on a sneaker box** 
+    
+                                But in resale, the **market price** can be much higher or lower based on demand.
+    
+    ---
+    
+    # 11.Market capitalization to sales ratio:
+    
+    ## **Definition**:
+    
+                                  The **Market Cap to Sales Ratio** compares a company’s **total market value** to its **total revenue (sales)**.
+    
+                                   It tells you **how much investors are paying for ₹1 of the company’s sales**.
+    
+    ### **Formula**:
+                       Market Cap to Sales Ratio = Market Cap / Total Annual sales (Revenue)
+    
+    ### **Why it Matters**:
+    
+    - If the ratio is **too high**, the stock may be **overvalued**.
+    - If the ratio is **low**, it could be **undervalued** or a good value-buy (if other things are strong).
+    
+    ## **Example: Hype Sneaker Store**
+    
+    Imagine your college friend Arjun owns a sneaker business 👟
+    
+    - His business is valued at **₹10 lakhs** (this is like Market Cap — what buyers are willing to pay)
+    - His total sales revenue last year = **₹2 lakhs**
+    
+    ## So:
+    
+                   Market Cap to Sales=1000000 / 200000 = 5
+    
+    ### That means:
+    
+                   Investors are paying ₹5 for every ₹1 of sales his business generates.
+    
+    ## Now Compare:
+    
+    ### Another store: Riya's Sneaker Shop
+    
+    - Market Cap = ₹6 lakhs
+    - Sales = ₹3 lakhs
+    
+    ### **Ratio = 600000 / 3000000 = 2**
+    
+       
+    
+                                Here, investors are paying **only ₹2 for ₹1 of sales**.
+    
+                                Riya's store may be **a better deal** (lower ratio), assuming profits are good too.
+    
+    ## Summary:
+    
+    | Store | Market Cap | Sales | Ratio | Investor paying ₹ for ₹1 sales |
+    | --- | --- | --- | --- | --- |
+    | Arjun's | ₹10L | ₹2L | 5 | ₹5 |
+    | Riya's | ₹6L | ₹3L | 2 | ₹2 |
+    
+    ### Rule of Thumb:
+    
+    - **Lower ratio** = undervalued or better value (but check profit too)
+    - **Higher ratio** = possibly overvalued (unless company is a growth rocket)
+    
+    ---
+    
+    ## **Stock Market Key Terms – Quick Summary**
+    
+    1. **Quantitative Analysis**
+        
+        Uses data and math to decide **when to buy/sell**, check risk, and predict returns.
+        
+    2. **P/E Ratio**
+        
+        How much you’re paying for ₹1 of company earnings.
+        
+        Lower = cheaper, Higher = growth expected
+        
+    3. **EPS (Earnings Per Share)**
+        
+        Profit the company makes per share.
+        
+         High EPS = better earnings per share
+        
+    4. **Market Capitalization**
+        
+        Total value of a company = share price × total shares.
+        
+        Shows company size (Large, Mid, Small cap)
+        
+    5. **Book Value**
+        
+        Company’s total assets minus debts.
+        
+        Tells actual worth on paper
+        
+    6. **Debt-to-Equity (D/E) Ratio**
+        
+        How much borrowed money vs. own money is used.
+        
+         Lower = safer, Higher = more risk
+        
+    7. **Price-to-Book (P/B) Ratio**
+        
+        Compares stock price to its book value.
+        
+         P/B < 1 might mean undervalued
+        
+    8. **ROI (Return on Investment)**
+        
+        How much profit you make compared to money spent.
+        
+         Shown in %
+        
+    9. **Promoter Holding**
+        
+        % of shares owned by company founders.
+        
+         High holding = high confidence
+        
+    10. **Dividend Yield**
+        
+        Yearly return from dividends compared to stock price.
+        
+         Like cashback for holding a stock
+        
+    11. **Face Value**
+        
+        Original price of share set by company (not market price).
+        
+         Used for accounting & dividend calculations
+        
+    
+    ---
+- Helps calculate **share capital** of the company
+    - e.g. 1,00,000 shares × ₹10 = ₹10,00,000 share capital
+    
+    ## Summary:
+    
+                                Think of face value like the **MRP printed on a sneaker box** 
+    
+                                But in resale, the **market price** can be much higher or lower based on demand.
+    
+    ---
+    
+    # 11.Market capitalization to sales ratio:
+    
+    ## **Definition**:
+    
+                                  The **Market Cap to Sales Ratio** compares a company’s **total market value** to its **total revenue (sales)**.
+    
+                                   It tells you **how much investors are paying for ₹1 of the company’s sales**.
+    
+    ### **Formula**:
+                       Market Cap to Sales Ratio = Market Cap / Total Annual sales (Revenue)
+    
+    ### **Why it Matters**:
+    
+    - If the ratio is **too high**, the stock may be **overvalued**.
+    - If the ratio is **low**, it could be **undervalued** or a good value-buy (if other things are strong).
+    
+    ## **Example: Hype Sneaker Store**
+    
+    Imagine your college friend Arjun owns a sneaker business 👟
+    
+    - His business is valued at **₹10 lakhs** (this is like Market Cap — what buyers are willing to pay)
+    - His total sales revenue last year = **₹2 lakhs**
+    
+    ## So:
+    
+                   Market Cap to Sales=1000000 / 200000 = 5
+    
+    ### That means:
+    
+                   Investors are paying ₹5 for every ₹1 of sales his business generates.
+    
+    ## Now Compare:
+    
+    ### Another store: Riya's Sneaker Shop
+    
+    - Market Cap = ₹6 lakhs
+    - Sales = ₹3 lakhs
+    
+    ### **Ratio = 600000 / 3000000 = 2**
+    
+       
+    
+                                Here, investors are paying **only ₹2 for ₹1 of sales**.
+    
+                                Riya's store may be **a better deal** (lower ratio), assuming profits are good too.
+    
+    ## Summary:
+    
+    | Store | Market Cap | Sales | Ratio | Investor paying ₹ for ₹1 sales |
+    | --- | --- | --- | --- | --- |
+    | Arjun's | ₹10L | ₹2L | 5 | ₹5 |
+    | Riya's | ₹6L | ₹3L | 2 | ₹2 |
+    
+    ### Rule of Thumb:
+    
+    - **Lower ratio** = undervalued or better value (but check profit too)
+    - **Higher ratio** = possibly overvalued (unless company is a growth rocket)
+    
+    ---
+    
+    ## **Stock Market Key Terms – Quick Summary**
+    
+    1. **Quantitative Analysis**
+        
+        Uses data and math to decide **when to buy/sell**, check risk, and predict returns.
+        
+    2. **P/E Ratio**
+        
+        How much you’re paying for ₹1 of company earnings.
+        
+        Lower = cheaper, Higher = growth expected
+        
+    3. **EPS (Earnings Per Share)**
+        
+        Profit the company makes per share.
+        
+         High EPS = better earnings per share
+        
+    4. **Market Capitalization**
+        
+        Total value of a company = share price × total shares.
+        
+        Shows company size (Large, Mid, Small cap)
+        
+    5. **Book Value**
+        
+        Company’s total assets minus debts.
+        
+        Tells actual worth on paper
+        
+    6. **Debt-to-Equity (D/E) Ratio**
+        
+        How much borrowed money vs. own money is used.
+        
+         Lower = safer, Higher = more risk
+        
+    7. **Price-to-Book (P/B) Ratio**
+        
+        Compares stock price to its book value.
+        
+         P/B < 1 might mean undervalued
+        
+    8. **ROI (Return on Investment)**
+        
+        How much profit you make compared to money spent.
+        
+         Shown in %
+        
+    9. **Promoter Holding**
+        
+        % of shares owned by company founders.
+        
+         High holding = high confidence
+        
+    10. **Dividend Yield**
+        
+        Yearly return from dividends compared to stock price.
+        
+         Like cashback for holding a stock
+        
+    11. **Face Value**
+        
+        Original price of share set by company (not market price).
+        
+         Used for accounting & dividend calculations
+        
+    
+    ---

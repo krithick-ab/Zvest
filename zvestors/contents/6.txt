@@ -1,0 +1,119 @@
+# Finding Undervalued Stocks:
+
+### Step 1: Apply Your Basics
+
+Use what you’ve already learned in the course:
+
+- Understand terms like **P/E ratio, EPS, Market Cap, Book Value, D/E ratio, ROI**.
+- Recognize how **qualitative factors** (like leadership, brand, and business model) impact company value.
+
+This foundation is key to judging if a stock is worth the price.
+
+---
+
+### Step 2: Where to Look
+
+### Use Stock Screener Tools:
+
+Platforms like:
+
+- **Screener.in** (India-specific)
+- **Tickertape**, **Simply Wall Street**, **Trendlyne**
+
+Use filters to find:
+
+- Low P/E stocks
+- High ROE stocks
+- Low D/E (debt) companies
+- High EPS growth
+
+These platforms save time and show instant red flags/green flags.
+
+### Read Investor Reports:
+
+- Read **Annual Reports (AR)**: Management talks, revenue trends, risks.
+- Check **Investor Presentations** for future goals.
+- Follow expert investors (ValuePickr, Smartkarma, etc.)
+
+---
+
+### Step 3: Spot the Red Flags
+
+Watch out for:
+
+- High debt (D/E > 2)
+- Low or falling profits (EPS drop)
+- Frequent share dilution
+- Poor corporate governance (check promoter holding, resignations, fraud news)
+
+---
+
+### Step 4: Look for Green Flags
+
+Search for:
+
+- Strong and consistent EPS growth
+- Low P/E compared to peers (but not extremely low)
+- High Return on Equity (ROE > 15%)
+- Promoter holding > 50%
+- Consistent dividend pay-outs
+
+---
+
+### Step 5: Use a Checklist
+
+Create your own checklist before picking a stock. Example:
+
+| Criteria | Threshold | Met? |
+| --- | --- | --- |
+| P/E Ratio | < 20 (or less than industry avg) | ✅ |
+| ROE | > 15% | ✅ |
+| D/E Ratio | < 1 | ✅ |
+| Promoter Holding | > 50% | ✅ |
+| EPS Growth (5 Yrs) | Positive | ✅ |
+| Dividend History | Consistent | ✅ |
+
+This helps avoid emotional decisions.
+
+---
+
+### Step 6: Compare with Peers
+
+Compare:
+
+- ITC vs Godfrey Philips
+- IRCTC vs Indian Hotels
+- Infosys vs Wipro
+
+Check P/E, EPS, ROE, and price growth over years.
+
+---
+
+### Step 7: Apply Qualitative Filters
+
+Ask:
+
+- Is this company easy to understand?
+- Do they have a **brand moat** (e.g., IRCTC’s monopoly)?
+- Are they solving a long-term problem?
+- Is the leadership trustworthy and visionary?
+
+---
+
+### Example: ITC (during early 2020–2021)
+
+### Market Sentiment:
+
+People joked “ITC never moves”.
+But here’s what smart investors saw:
+
+- **P/E Ratio**: Very low (~13–14) vs Nifty avg (~25)
+- **Dividend Yield**: High (~5–6%)
+- **ROE**: ~23%
+- **Diversified Business**: Cigarettes, FMCG, Hotels, Paper
+- **Zero Debt**
+- **Strong Promoter Holding**
+
+ **Result**: Stock went from ₹160 to ₹450+ in 3 years 
+
+That’s the power of spotting **value before the hype**.

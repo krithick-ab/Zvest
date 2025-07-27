@@ -1,0 +1,181 @@
+# Introduction to Stock Market:
+
+The stock market is a structured and regulated environment where individuals and institutions can trade equity securities, typically through stock exchanges such as the National Stock Exchange (NSE) or the Bombay Stock Exchange (BSE). Companies list their shares to raise capital from investors. The market operates under the supervision of regulatory bodies like the **Securities and Exchange Board of India (SEBI)**, ensuring compliance, investor protection, and market integrity.
+
+---
+
+### 1.A Brief History of the Stock Market in India
+
+The roots of the Indian stock market trace back to the 19th century. The first organized stock trading in India began in Mumbai (then Bombay) in the 1850s when a group of 22 brokers started trading under a banyan tree in front of the Town Hall. This informal gathering later evolved into the **Bombay Stock Exchange (BSE)**, formally established in 1875, making it **Asia’s oldest stock exchange**.
+
+Over the years, the Indian stock market matured with the launch of the **National Stock Exchange (NSE)** in 1992, which introduced electronic trading for the first time. This transformed the market from a traditional open-outcry system to a more efficient, transparent, and tech-driven environment.
+
+Key historical milestones:
+
+- **1875** – Bombay Stock Exchange (BSE) founded.
+- **1957** – BSE recognized by the Indian government under the Securities Contracts Regulation Act.
+- **1992** – NSE launched, bringing in electronic trading.
+- **1992** – SEBI (Securities and Exchange Board of India) established to regulate the market.
+- **2000** – Introduction of online trading for retail investors.
+
+Today, India’s capital markets are among the most vibrant in the world, with thousands of companies listed and millions of retail investors participating through mobile apps and platforms like Zerodha, Groww, and Upstox.
+
+The stock market is a structured and regulated environment where individuals and institutions can trade equity securities, typically through stock exchanges such as the National Stock Exchange (NSE) or the Bombay Stock Exchange (BSE). Companies list their shares to raise capital from investors. The market operates under the supervision of regulatory bodies like the **Securities and Exchange Board of India (SEBI)**, ensuring compliance, investor protection, and market integrity.
+
+---
+
+## 2. What Is a Share?
+
+A **share** or **stock** represents fractional ownership in a company. When an individual purchases shares of a publicly traded company, they become a **shareholder** and obtain rights such as receiving **dividends**, voting in general meetings, and participating in the residual assets of the company in the event of liquidation.
+
+- **Shareholder**: A person or entity that owns one or more shares in a company.
+- **Equity**: The value of ownership interest in a company, calculated as assets minus liabilities.
+- **Dividends**: A portion of a company's earnings distributed to shareholders, typically in cash or additional shares.
+- **Face Value (Par Value)**: The nominal or accounting value of a share assigned during issuance.
+- **Market Price**: The current price at which a share is traded on a stock exchange.
+- **Book Value**: The net asset value of a company, calculated as total assets minus total liabilities.
+
+### Example:
+
+If a company has 1,00,000 outstanding shares and you own 1,000, your ownership stake is 1%. If the company earns ₹10 lakhs and declares a dividend of ₹2 per share, you receive ₹2,000 as dividend income.
+
+## 3. Why Do Companies Issue Shares?
+
+Companies issue shares primarily for **capital formation**. This process, known as **equity financing**, allows businesses to raise funds without incurring debt. Funds raised may be used for expansion, research and development, acquisition of assets, or repaying liabilities.
+
+- **Equity Financing**: Raising capital through the sale of ownership shares.
+- **Debt Financing**: Raising capital through borrowing, typically by issuing bonds or taking bank loans.
+- **Capital Structure**: The mix of debt and equity used by a company to finance its operations.
+- **Initial Public Offering (IPO)**: The process by which a private company offers shares to the public for the first time.
+- **Rights Issue**: Offering additional shares to existing shareholders at a discounted price.
+
+### Example:
+
+Suppose a startup needs ₹2 crores to expand. It can either borrow the amount (debt financing) or issue 20 lakh shares at ₹10 each through an IPO, raising the same amount while offering ownership in the business.
+
+## 4. Market Participants
+
+- **Retail Investors**: Individual investors who trade with personal funds.
+- **Institutional Investors**: Entities such as mutual funds, insurance firms, pension funds, and hedge funds that invest large sums.
+- **Traders**: Market participants who engage in frequent buying and selling to profit from short-term price movements.
+- **Stock Brokers**: Registered intermediaries facilitating securities transactions for clients.
+- **Market Makers**: Firms or individuals that provide liquidity by quoting buy and sell prices.
+- **SEBI**: The regulatory authority that oversees market operations in India.
+- **Brokerage Account**: An investment account that enables the buying and selling of securities.
+- **Transaction Costs**: Fees and charges associated with trading, such as brokerage, Securities Transaction Tax (STT), and exchange fees.
+- **Liquidity**: The ease with which an asset can be converted into cash without significant loss in value.
+
+## 5. Demat and Trading Accounts
+
+In India, securities are held in **Dematerialized form** through **Demat Accounts**, which eliminate the need for physical share certificates and reduce the risks of forgery and theft. A **Trading Account** is used to place orders on the stock exchange.
+
+- **NSDL (National Securities Depository Limited)** and **CDSL (Central Depository Services Limited)**: The two central depositories in India.
+- **Depository Participant (DP)**: A financial intermediary (like a bank or broker) that facilitates access to depositories.
+- **ISIN (International Securities Identification Number)**: A unique code identifying a specific security.
+- **Settlement Cycle**: The process of transferring securities and funds between buyer and seller, usually completed in T+1 days in Indian markets.
+
+### Example:
+
+When you buy shares of Infosys through a broker, your Demat account holds the shares digitally, while the Trading account records the transaction. The NSDL/CDSL system ensures safe custody and transfer of these securities.
+
+---
+
+## 6.  How Does Buying/Selling Work?
+
+### Step-by-Step Breakdown:
+
+### 🛒 1. Opening Accounts
+
+- Open a **Demat Account** (holds your shares)
+- Open a **Trading Account** (used to place orders)
+- These are usually offered by brokers like Zerodha, Angel One, or Groww.
+
+### 2. Placing Orders
+
+- Login to your trading app.
+- Search the stock you want (e.g., “Infosys”).
+- Choose to **Buy** or **Sell**.
+- Select the number of shares and type of order:
+    - **Market Order**: Executes immediately at the current price.
+    - **Limit Order**: Executes only at the price you set or better.
+
+### 3. Order Matching by the Exchange
+
+- All orders go to the stock exchange (like NSE).
+- If your buy order matches someone’s sell order, the trade is executed.
+- This happens within seconds using an automated system.
+
+### 4. Settlement
+
+- Once the trade is done, the exchange settles the deal:
+    - **T+1 Settlement**: You get your shares (or money) the next working day.
+
+### 5. Shares Reflected in Demat
+
+- The purchased shares are added to your Demat account.
+- You now officially own a part of the company!
+
+### Example:
+
+You want to buy 5 shares of Tata Motors at ₹700 each:
+
+- You place a **limit buy order** for 5 shares at ₹700.
+- A seller places a matching **sell order**.
+- The trade is executed.
+- ₹3,500 is deducted, and 5 shares are added to your Demat.
+
+### Types of Orders (Optional Deep Dive)
+
+- **Stop-Loss Order**: Automatically sells your stock if it falls to a certain price.
+- **Bracket Order**: Places multiple orders to control loss and lock profits.
+
+---
+
+## 7.  What Makes Stock Prices Go Up or Down?
+
+- **Company Performance** (e.g., profits, news, product launches)
+- **Investor Sentiment**
+- **Macroeconomic News** (interest rates, inflation)
+- **Demand & Supply** dynamics
+
+### Example:
+
+If Zomato announces a big profit or expansion into 5 new countries, its share price might rise due to investor optimism.
+
+---
+
+## 8.  Types of Investors
+
+- **Long-Term Investors**: Buy and hold for years (e.g., Warren Buffett-style investing).
+- **Short-Term Traders**: Intraday, swing traders — focus on short-term price movements.
+- **Retail Investors**: Individual non-professional investors.
+- **Institutional Investors**: Mutual funds, insurance firms, hedge funds.
+
+---
+
+## 9.  Risk vs Reward
+
+### Key Insight:
+
+> The stock market has the potential to generate high returns — but it comes with risks. The more informed you are, the better you manage those risks.
+> 
+- **Higher Returns** usually mean **Higher Risk**
+- **Diversification** and **long-term perspective** help reduce risk
+
+---
+
+## 10.  Basic Terms Every Beginner Must Know (Glossary)
+
+- **IPO**: Initial Public Offering — when a company sells its shares to the public for the first time.
+- **Sensex/Nifty**: Major stock indices representing top companies in India.
+- **Dividend**: Part of company’s profits shared with shareholders.
+- **Market Capitalization**: Total value of a company = share price × number of shares.
+- **Bull Market**: Period when stock prices are rising.
+- **Bear Market**: Period when stock prices are falling.
+- **Volume**: Number of shares traded during a time period.
+- **Volatility**: How much and how quickly stock prices move up or down.
+    
+    ---
+    
+
+## Assignments and Quizzes
